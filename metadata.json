@@ -1,0 +1,5 @@
+{
+  "name": "SkillSwap AI",
+  "description": "A smart skill exchange platform. Match with people to trade skills (e.g., coding for cooking) using AI-powered compatibility scoring and simulated AI conversations.",
+  "requestFramePermissions": []
+}
